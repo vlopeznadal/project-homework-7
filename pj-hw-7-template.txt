@@ -1,0 +1,13 @@
+Project Homework #7
+
+Sprint 1 is done! Record your progress in Frodo using the template 
+below and review with your adviser in your next advising session.
+
+## Sprint 1: Part 2 -- Project Update
+### I have completed my MVP (yes/no): yes
+
+### I have completed these features for my MVP: Users can view a list of cafes and details about each cafe, Users can register and login, Users can save cafes to profile, also search feature and map feature of 2.0
+
+### For Sprint 2, I plan to work on: Allowing user to update their cafe review, showing numbers on range for cafe rating, Maybe allowing the user to enter in more information about themselves in their profile page, possibly showing a map of the location of the cafe on the details page, still might do the word map idea of showing words that are common in cafe reviews
+
+### My general work plan/estimate for the first phase of Sprint 2 is: Not sure, as I'm pretty close to finished with all my ideas, but I'm sure I can come up with more to fill the time and if anything, begin working on the design.
